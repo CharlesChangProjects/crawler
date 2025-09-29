@@ -1,0 +1,11 @@
+prometheus_client~=0.23.1
+bitarray~=3.7.1
+redis~=6.4.0
+bs4~=0.0.2
+beautifulsoup4~=4.14.0
+aiofiles~=24.1.0
+aiomysql~=0.2.0
+elasticsearch~=9.1.1
+motor~=3.7.1
+aiohttp~=3.12.15
+fake-useragent~=2.2.0
